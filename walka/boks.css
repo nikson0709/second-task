@@ -1,0 +1,67 @@
+header h1{
+    text-align: center;
+    font-size: 70px;
+    color: aliceblue;
+}
+header img{
+    width: 90px;
+    height: 90px;
+    float: left;
+    left: 380px;
+    position: absolute;
+}
+nav a {
+  display: inline;
+  background-color:dodgerblue;
+  padding: 10px;
+  float: right;
+  font-size: 20px;
+  border: 0;
+}
+nav a:hover {
+  background: red;
+}
+a {
+  text-decoration: none;
+  color: greenyellow;
+}
+a:visited {
+  color: white;
+}
+section h2{
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+section article p{
+    color: aliceblue;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+article h3{
+    color: dodgerblue;
+    margin-left: 20px;
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+}
+div img {
+  width: 250px;
+  height: 200px;
+  display: inline-flex;
+  margin-left: 130px;
+}
+article video{
+ margin-left: 270px;
+}
+article h2{
+    text-align: left;
+    color: dodgerblue;
+    margin-left: 20px;
+}
+article audio{
+    margin-left: 20px;
+}

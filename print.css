@@ -1,0 +1,17 @@
+@media print {
+  img {
+    display: none;
+  }
+  nav {
+    display: none;
+  }
+  hr {
+    display: none;
+  }
+    article img{
+        display: none;
+    }
+    .noprint{
+        display: none;
+    }
+}
